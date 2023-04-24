@@ -15,15 +15,15 @@ Solução presente no arquivo Ex2.py.
   </li>
   <li>
     <p>Resposta: 128</p>
-    <p>$$f(x) = 2^{1+x}$$</p>
+    <p>$f(x) = 2^{1+x}$</p>
   </li>
   <li>
     <p>Resposta: 49</p>
-    <p>$$f(x) = x^2$$</p>
+    <p>$f(x) = x^2$</p>
   </li>
   <li>
     <p>Resposta: 100</p>
-    <p>$$f(x) = 4*(x^2)$$</p>
+    <p>$f(x) = 4*(x^2)$</p>
   </li>
   <li>
     <p>Resposta: 13</p>
