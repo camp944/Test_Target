@@ -1,31 +1,42 @@
 # Test_Target
  Este respositório tem como objetivo organizar os códigos de resolução de 4 atividades propostas em um teste.
+
 ## Exercício 1
 Solução presente no arquivo Ex1.py.
+
 ## Exercício 2
 Solução presente no arquivo Ex2.py.
-## Exercício 1
-Solução presente no arquivo Ex1.py.
+
 ## Exercício 3
-<ol>
+<ol type="a">
   <li>
-    <p>A equação de Einstein que relaciona massa e energia:</p>
-    <p>$$E = mc^2$$</p>
+    <p>Resposta: 9</p>
+    <p>$f(x) = 1+2*x$</p>
   </li>
   <li>
-    <p>A equação da velocidade angular:</p>
-    <p>$$\omega = \frac{d\theta}{dt}$$</p>
+    <p>Resposta: 128</p>
+    <p>$$f(x) = 2^(1+x)$$</p>
   </li>
   <li>
-    <p>A fórmula do teorema de Pitágoras:</p>
-    <p>$$a^2 + b^2 = c^2$$</p>
+    <p>Resposta: 49</p>
+    <p>$$f(x) = x^2$$</p>
   </li>
   <li>
-    <p>A lei de Coulomb que descreve a força entre duas cargas elétricas:</p>
-    <p>$$F = \frac{1}{4\pi\epsilon_0}\frac{q_1q_2}{r^2}$$</p>
+    <p>Resposta: 100</p>
+    <p>$$f(x) = 4*(x^2)$$</p>
   </li>
   <li>
-    <p>A equação da continuidade que relaciona a área, a velocidade e a densidade de um fluido:</p>
-    <p>$$A_1v_1\rho_1 = A_2v_2\rho_2$$</p>
+    <p>Resposta: 13</p>
+    <p>Fibonacci</p>
+  </li>
+  <li>
+    <p>Resposta: 20</p>
   </li>
 </ol>
+
+## Exercício 4
+Os 2 estarão à mesma distância de Ribeirão Preto. Já que o ponto de cruzamento é o ponto em que os
+dois veículos possuem a mesma posição no espaço. Portanto, tomando $f(t) = S_Carro$ como a posição do carro no espaço e  $g(t) = S_Caminhao$ como a posição do caminhão, temos que o ponto de cruzamento é $g(t) = f(t)$. Logo, para o ponto $S_0$ que representa a cidade de Ribeirão Preto teremos que $S_Caminhao-S_0 = S_Carro-S_0$.
+
+## Exercício 1
+Solução presente no arquivo Ex5.py.
