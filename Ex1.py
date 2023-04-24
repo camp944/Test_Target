@@ -1,0 +1,11 @@
+#Calcula os valores solictados com base no arquivo json
+
+INDICE = 13
+SOMA = 0
+K = 0
+
+while K < INDICE:
+    K = K + 1
+    SOMA = SOMA + K
+
+print(SOMA)
