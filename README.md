@@ -2,7 +2,7 @@
  Este respositório tem como objetivo organizar os códigos de resolução de 5 atividades propostas em um teste.
 
 ## Exercício 1
-Solução presente no arquivo Ex1.py.
+Resposta: 91
 
 ## Exercício 2
 Solução presente no arquivo Ex2.py.
